@@ -1,0 +1,1 @@
+export const CHARACTER_API_URL: string = 'https://swapi.dev/api/people'
